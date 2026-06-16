@@ -1,4 +1,4 @@
-# 🔑 Sub Link Scraper
+**# 🔑 Sub Link Scraper
 
 A Chrome extension for automated generation, verification, and scraping of URLs in the format `https://sub.[domain.name]/[key]`.
 
@@ -89,3 +89,4 @@ sub-scraper/
 ├── popup.js            # UI logic
 ├── background.js       # Background script (core logic)
 └── README.md           # Documentation
+**
